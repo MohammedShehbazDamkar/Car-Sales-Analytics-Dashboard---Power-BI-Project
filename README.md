@@ -2,6 +2,8 @@
 
 This Power BI dashboard provides comprehensive insights into car sales performance, helping dealerships track KPIs, analyze trends, and make data-driven decisions. The project demonstrates advanced Power BI capabilities including custom visualizations, complex DAX calculations, and interactive filtering.
 
+![Car Sales Dashboard Overview](https://github.com/MohammedShehbazDamkar/Car-Sales-Analytics-Dashboard---Power-BI-Project/blob/main/Overview.PNG)
+
 ### 🎯 Problem Statement
 
 The car dealership needed a comprehensive analytics solution to:
@@ -88,3 +90,4 @@ The car dealership needed a comprehensive analytics solution to:
 Mohammed Shehbaz Damkar
 - LinkedIn: (https://www.linkedin.com/in/mohammed-shehbaz-damkar-9a1288177/)
 - Email: shehbazdamkar@gmail.com
+
